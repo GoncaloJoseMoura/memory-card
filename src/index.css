@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'bungee';
+    src: url(/fonts/BungeeShade-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'monoton';
+    src: url(/fonts/Monoton-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'digital';
+    src: url(/fonts/digital-7.ttf);
+}
